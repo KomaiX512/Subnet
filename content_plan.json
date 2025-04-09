@@ -1,0 +1,152 @@
+{
+  "generated_date": "2025-04-10T02:22:43.541020",
+  "profile_analysis": {
+    "account_type": "Personal",
+    "confidence": 83.33333333333334,
+    "analysis": "Account appears to be for personal use with 83.3% confidence. Only 2 out of 12 posts contain business-related terms."
+  },
+  "engagement_analysis": {
+    "content_type_analysis": {
+      "photo": {
+        "count": 12,
+        "total_engagement": 1112168,
+        "average_engagement": 92680.66666666667
+      }
+    },
+    "category_analysis": {},
+    "best_performing_content": "photo",
+    "best_performing_category": null,
+    "summary": "Insufficient data to determine best performing content."
+  },
+  "posting_trends": {
+    "most_active_day": "Monday",
+    "most_active_hour": 16,
+    "hour_formatted": "4 PM",
+    "posts_per_day": 0.2727272727272727,
+    "day_distribution": {
+      "Monday": 6,
+      "Wednesday": 3,
+      "Saturday": 1,
+      "Friday": 1,
+      "Sunday": 1
+    },
+    "hour_distribution": {
+      "16": 3,
+      "15": 3,
+      "20": 2,
+      "18": 2,
+      "13": 1,
+      "19": 1
+    },
+    "high_activity_months": {
+      "March": 7,
+      "April": 3,
+      "February": 2
+    },
+    "summary": "Posts most frequently on Mondays at around 4 PM. Average posting frequency is 0.3 posts per day. Higher posting activity during: March, April, February."
+  },
+  "next_post_prediction": {
+    "caption": "Error generating prediction",
+    "hashtags": [
+      "#error"
+    ],
+    "call_to_action": "Please try again later",
+    "image_prompt": "Error generating image prompt"
+  },
+  "improvement_recommendations": [
+    {
+      "recommendation": "Post more consistently",
+      "reasoning": "Regular posting helps maintain audience engagement",
+      "implementation": "Create a content calendar and schedule posts in advance"
+    },
+    {
+      "recommendation": "Engage more with followers",
+      "reasoning": "Higher engagement leads to better reach and loyalty",
+      "implementation": "Respond to comments and messages promptly"
+    },
+    {
+      "recommendation": "Use more relevant hashtags",
+      "reasoning": "Proper hashtags increase discoverability",
+      "implementation": "Research trending hashtags in your niche"
+    },
+    {
+      "recommendation": "Improve visual consistency",
+      "reasoning": "Consistent aesthetics create a recognizable brand",
+      "implementation": "Use similar filters and color schemes across posts"
+    },
+    {
+      "recommendation": "Collaborate with similar accounts",
+      "reasoning": "Collaborations expose your account to new audiences",
+      "implementation": "Reach out to complementary accounts for partnership opportunities"
+    }
+  ],
+  "competitors": [
+    {
+      "account_name": "competitor_1",
+      "reason": "Similar content and audience",
+      "unique_value": "Different approach to similar topics"
+    },
+    {
+      "account_name": "competitor_2",
+      "reason": "Similar content and audience",
+      "unique_value": "Different approach to similar topics"
+    },
+    {
+      "account_name": "competitor_3",
+      "reason": "Similar content and audience",
+      "unique_value": "Different approach to similar topics"
+    },
+    {
+      "account_name": "competitor_4",
+      "reason": "Similar content and audience",
+      "unique_value": "Different approach to similar topics"
+    },
+    {
+      "account_name": "competitor_5",
+      "reason": "Similar content and audience",
+      "unique_value": "Different approach to similar topics"
+    },
+    {
+      "account_name": "competitor_6",
+      "reason": "Similar content and audience",
+      "unique_value": "Different approach to similar topics"
+    },
+    {
+      "account_name": "competitor_7",
+      "reason": "Similar content and audience",
+      "unique_value": "Different approach to similar topics"
+    },
+    {
+      "account_name": "competitor_8",
+      "reason": "Similar content and audience",
+      "unique_value": "Different approach to similar topics"
+    },
+    {
+      "account_name": "competitor_9",
+      "reason": "Similar content and audience",
+      "unique_value": "Different approach to similar topics"
+    },
+    {
+      "account_name": "competitor_10",
+      "reason": "Similar content and audience",
+      "unique_value": "Different approach to similar topics"
+    }
+  ],
+  "trending_topics": [
+    {
+      "date": "2025-04-02",
+      "value": 176727.89752310925,
+      "topic": "Trending on April 02"
+    },
+    {
+      "date": "2025-04-05",
+      "value": 241770.03226272162,
+      "topic": "Trending on April 05"
+    },
+    {
+      "date": "2025-04-10",
+      "value": 618518.6652244129,
+      "topic": "Trending on April 10"
+    }
+  ]
+}
